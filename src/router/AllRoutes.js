@@ -17,6 +17,7 @@ const AllRoutes = () => {
           <Route path="/" element={<HomeDark />} />
           <Route path="/home-rtl" element={<HomeRtl />} />
           <Route path="*" element={<NotFound />} />
+          <Route path="/hero" element={<Hero />} />
         </Routes>
       </ContextProvider>
     </>

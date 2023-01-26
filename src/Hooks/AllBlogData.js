@@ -9,7 +9,7 @@ const AllBlogData = () => {
       id: 1,
       img: img1,
       title: "How to Succes in your work and acheive your dream step by step ",
-      commentor: "by me  ",
+      commentor: "by me",
       date: "21 April 2020",
       tag: `work, business, economy`,
       description1:
