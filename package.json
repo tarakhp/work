@@ -2,7 +2,7 @@
   "home": "https://tarakhp.github.io/work",
   "name": "tunis",
   "version": "2.2.1",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
     "@testing-library/jest-dom": "^5.11.4",
